@@ -1,4 +1,6 @@
 📊 Netflix Dashboard Project
+
+
 📌 Overview
 This project is a Power BI dashboard for analyzing Netflix content data, providing insights into the distribution of shows, directors, cast, and genres across different countries.
 
