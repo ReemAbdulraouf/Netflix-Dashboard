@@ -23,19 +23,4 @@ Power BI – For data visualization and dashboard creation.
 Excel – For data cleaning and preprocessing.
 GitHub – For version control.
 
-🚀 How to Use
-Download the dataset files (.xlsx) and the Power BI dashboard file (.pbix).
-Open the .pbix file in Power BI Desktop.
-Explore interactive visualizations and filters.
-Modify or enhance the dashboard as needed.
 
-📸 Screenshots
-
-![Netflix Dashboard](Dashboard/Netflix Dashboard_page-0001.jpg)
-
-
-
-📌 Future Improvements
-Automate data updates using Python or SQL.
-Enhance interactivity with additional filters.
-Integrate real-time Netflix data (if available).
