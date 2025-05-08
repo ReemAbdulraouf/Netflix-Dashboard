@@ -47,14 +47,5 @@ I plan to enhance this analysis by exploring:
 - Content release frequency by country
 - Correlation between release year and content popularity
 
----
 
-## 🤝 Let's Connect!
-
-If you're passionate about **data analytics**, **streaming trends**, or **visual storytelling**, feel free to reach out! I'm always excited to exchange ideas and collaborate on data-driven projects.
-
----
-
-### 🔗 Tags
-`#PowerBI` `#DataVisualization` `#NetflixAnalytics` `#StreamingData` `#DashboardDesign`
 
